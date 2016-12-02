@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Navicat Premium 的安装与使用
+title: Installation and Use of Navicat Premium
 ---
 
 [installation and use of Navicat Premium](http://www.jianshu.com/p/c546ec7b5a5d) 
