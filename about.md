@@ -3,13 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
- someone like himself !
+ someone likes himself and his family! maybe, he will love you !
 <!--Some information about you!-->
 
-### More Information
-
+<!--### More Information
+if you like his articles, please -->
 <!--A place to include any other types of information that you'd like to include about yourself.-->
 
 ### Contact me
  
-mail：583270538@qq.com
+mail：rinbowking@vip.qq.com
